@@ -1,3 +1,5 @@
+# LayerSort
+
 --インストール方法--
 .jsxbin ファイルを ScriptUI Panels フォルダに入れ、ウィンドウから実行します。
 
