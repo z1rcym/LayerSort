@@ -11,6 +11,7 @@
 - 会社や学校、友人間でのスクリプト共有は可能ですが、インターネット上での広範な配布はご遠慮ください。
 
 ## サポート
-ご質問、不具合報告、ご要望などございましたら、TwitterのDMでお気軽にご連絡ください。
+ご質問、不具合報告、ご要望などございましたら、以下よりお気軽にご連絡ください：
 
-**Twitter**: [@z1rcym](https://twitter.com/z1rcym)
+- **Instagram**: [z1rcym](https://www.instagram.com/z1rcym)
+- **Twitter**: [@z1rcym](https://twitter.com/z1rcym)
